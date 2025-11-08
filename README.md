@@ -4,7 +4,7 @@
 
 This repository contains the CS547 - Computer Graphics final project: a 3D rendered "Forest" park scene implemented in C++ and OpenGL. The scene includes a procedurally subdividable mountain, a randomized forest made of parameterized tree instances, a brick wall built from block instances, and three animated birds that fly along spline paths. The project demonstrates a number of course techniques including texture mapping, swept objects, parametric instancing, subdivision, hierarchical animated models, and simple scene lighting/time-of-day changes.
 
-Final project report can be found in [docs/Final_Project_Report_Tayte_Waterman.pdf](docs/Final_Project_Report_Tayte_Waterman.pdf)
+Final project report can be found in [docs/CS547_Final_Project_Report_5_Tayte_Waterman.pdf](docs/CS547_Final_Project_Report_5_Tayte_Waterman.pdf)
 
 ## Highlighted Content
 
@@ -84,7 +84,7 @@ Notes:
   - `Wall.*`, `Block.*`, `Arch.*` — supporting scene geometry
   - texture files: `brick.tga`, `rock.tga`, `grass.tga`, `jasmine.tga`, `pine.tga`, `feathers.tga`, `bark.tga`
 - `fltk_2022_1.3.8/` — included FLTK library files (headers, GL, and supporting headers). FLTK (Fast Light Toolkit) is a lightweight, cross-platform C++ GUI toolkit that provides widgets, windowing, and simple OpenGL integration; it's commonly used for small graphical apps and demos. This is a third-party library required to build/run the project.
-- `docs/Final_Project_Report_Tayte_Waterman.pdf` — Final project report
+- [docs/CS547_Final_Project_Report_5_Tayte_Waterman.pdf](docs/CS547_Final_Project_Report_5_Tayte_Waterman.pdf) — Final project report
 
 ## History
 

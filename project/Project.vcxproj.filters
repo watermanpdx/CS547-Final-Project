@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CubicBspline.cpp" />
+    <ClCompile Include="GenericException.cpp" />
+    <ClCompile Include="Ground.cpp" />
+    <ClCompile Include="libtarga.c" />
+    <ClCompile Include="Track.cpp" />
+    <ClCompile Include="World.cpp" />
+    <ClCompile Include="WorldWindow.cpp" />
+    <ClCompile Include="Block.cpp" />
+    <ClCompile Include="Wall.cpp" />
+    <ClCompile Include="Tree.cpp" />
+    <ClCompile Include="Forest.cpp" />
+    <ClCompile Include="Mountain.cpp" />
+    <ClCompile Include="Datatypes.cpp" />
+    <ClCompile Include="Bird.cpp" />
+    <ClCompile Include="Arch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CubicBspline.h" />
+    <ClInclude Include="GenericException.h" />
+    <ClInclude Include="Ground.h" />
+    <ClInclude Include="libtarga.h" />
+    <ClInclude Include="Track.h" />
+    <ClInclude Include="WorldWindow.h" />
+    <ClInclude Include="Block.h" />
+    <ClInclude Include="Wall.h" />
+    <ClInclude Include="Tree.h" />
+    <ClInclude Include="Datatypes.h" />
+    <ClInclude Include="Forest.h" />
+    <ClInclude Include="Mountain.h" />
+    <ClInclude Include="Bird.h" />
+    <ClInclude Include="Arch.h" />
+  </ItemGroup>
+</Project>
